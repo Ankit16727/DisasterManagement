@@ -12,3 +12,15 @@ After compiling, run the application by using the command:
 ./ms
 ```
 The input data is contained in the file <b><i>data.dat</i></b>
+
+# Application Design
+The application design is based on the Object Oriented Programming (OOP) paradigm:<br>
+- Abstraction
+- Encapsulation
+- Polymorphism
+- Inheritance
+
+Along with that, <b>reading</b> and <b>writing</b> data to the file is implemented to keep track of the list of items that needs to be shipped.
+### Class Design
+
+
