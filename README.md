@@ -6,5 +6,8 @@ To run the application, download the repository. Then open the command prompt (W
 
 ```
 g++ -Wall -std=c++11 -g -o ms AidMan.cpp Date.cpp Item.cpp Menu.cpp Perishable.cpp Status.cpp Utils.cpp iProduct.cpp main.cpp
-
+```
+After compiling, run the application by using the command:
+```
+./ms
 ```
