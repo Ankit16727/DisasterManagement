@@ -11,3 +11,4 @@ After compiling, run the application by using the command:
 ```
 ./ms
 ```
+The input data is contained in the file 'data.dat'
