@@ -30,7 +30,7 @@ Along with that, <b>reading</b> and <b>writing</b> data to the file is implement
 ### Class Diagram
 ![DisasterManagement](https://github.com/Ankit16727/DisasterManagement/assets/120432770/66399420-37d7-4c79-beb7-0b378679e074)
 
-# User Interface
+# Application Walkthrough
 ### Initializing the database by reading data from file
 <img width="1440" alt="LoadingData" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/83ab872c-d98b-4656-a66b-d9122e1bac06">
 
@@ -43,5 +43,27 @@ Along with that, <b>reading</b> and <b>writing</b> data to the file is implement
 
 ### List after the item is added
 <img width="1440" alt="ItemAfterAdding" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/4c9e3dc2-1b5a-4898-911b-afd7dcbb2202">
+
+### Removing an item
+<img width="1440" alt="RemovingItem" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/56c2802c-75cd-4010-8ac6-1681245db4c6">
+
+
+### List after the item is removed
+<img width="1440" alt="ItemsAfterRemoving" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/3f3944b7-5eb6-4385-b41e-451d89dfd280">
+
+### Updating the quantity of an item
+<img width="1440" alt="UpdateQuantity" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/48cd7105-7ab0-479a-8a00-79395082b9c1">
+
+### Sorting the list based on priority (difference between items needed and items on hand)
+
+<img width="1440" alt="Sorting" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/e5b69b56-6c6f-46f0-b339-9766fc4ed1a1">
+
+### Shipping the items if requirements are met (items on hand are equal to items needed)
+
+<img width="1440" alt="shipItems" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/396b40e4-b1e7-4dbe-bb9c-579d4fb218eb">
+
+
+
+
 
 
