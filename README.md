@@ -28,5 +28,6 @@ The application design is based on the Object Oriented Programming (OOP) paradig
 
 Along with that, <b>reading</b> and <b>writing</b> data to the file is implemented to keep track of the list of items that needs to be shipped.
 ### Class Design
+![DisasterManagement](https://github.com/Ankit16727/DisasterManagement/assets/120432770/66399420-37d7-4c79-beb7-0b378679e074)
 
 
