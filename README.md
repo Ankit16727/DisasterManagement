@@ -27,7 +27,21 @@ The application design is based on the Object Oriented Programming (OOP) paradig
 - Inheritance
 
 Along with that, <b>reading</b> and <b>writing</b> data to the file is implemented to keep track of the list of items that needs to be shipped.
-### Class Design
+### Class Diagram
 ![DisasterManagement](https://github.com/Ankit16727/DisasterManagement/assets/120432770/66399420-37d7-4c79-beb7-0b378679e074)
+
+# User Interface
+### Initializing the database by reading data from file
+<img width="1440" alt="LoadingData" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/83ab872c-d98b-4656-a66b-d9122e1bac06">
+
+### Listing the items 
+<img width="1440" alt="ListingItems" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/926e55d0-2848-4aaf-8c0c-9414099f27cc">
+
+### Adding an item
+
+<img width="1440" alt="AddingItem" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/dc243ee8-1c1f-4c43-9589-3c6d01dffd42">
+
+### List after the item is added
+<img width="1440" alt="ItemAfterAdding" src="https://github.com/Ankit16727/DisasterManagement/assets/120432770/4c9e3dc2-1b5a-4898-911b-afd7dcbb2202">
 
 
